@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxtech.github.io/"/>
-  <updated>2020-07-29T13:43:46.000Z</updated>
+  <updated>2020-08-24T04:04:54.000Z</updated>
   <id>https://yuxtech.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>平面几何习题集</title>
+    <link href="https://yuxtech.github.io/2020/08/24/jihe/"/>
+    <id>https://yuxtech.github.io/2020/08/24/jihe/</id>
+    <published>2020-08-24T04:01:09.000Z</published>
+    <updated>2020-08-24T04:04:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="用tkz-euclide包整理的平面几何习题集"><a href="#用tkz-euclide包整理的平面几何习题集" class="headerlink" title="用tkz-euclide包整理的平面几何习题集"></a>用<code>tkz-euclide</code>包整理的平面几何习题集</h1><p>曾经准备花几年时间来整理一份高中数学竞赛的平面几何习题集，后来画图太过麻烦就搁置了，这里只是把以前做的一些部分分享出来，中间还遗失了一部分<code>tex</code>文件，至于校对啥的我也没心情了，留给有缘人去做吧!<br><a href="https://yuxtech.github.io/tex/geo.tex">平面几何tex文件</a><br><div class="row">    <embed src="https://yuxtech.github.io/math/平面几何.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;用tkz-euclide包整理的平面几何习题集&quot;&gt;&lt;a href=&quot;#用tkz-euclide包整理的平面几何习题集&quot; class=&quot;headerlink&quot; title=&quot;用tkz-euclide包整理的平面几何习题集&quot;&gt;&lt;/a&gt;用&lt;code&gt;tkz-euclid
+      
+    
+    </summary>
+    
+    
+      <category term="TikZ" scheme="https://yuxtech.github.io/tags/TikZ/"/>
+    
+  </entry>
   
   <entry>
     <title>一个书籍封面的TikZ设计</title>
@@ -451,29 +474,6 @@
       
       
         &lt;h1 id=&quot;用tkz-euclide包绘制平面几何图形&quot;&gt;&lt;a href=&quot;#用tkz-euclide包绘制平面几何图形&quot; class=&quot;headerlink&quot; title=&quot;用tkz-euclide包绘制平面几何图形&quot;&gt;&lt;/a&gt;用tkz-euclide包绘制平面几何图形&lt;/
-      
-    
-    </summary>
-    
-    
-      <category term="TikZ" scheme="https://yuxtech.github.io/tags/TikZ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>tikz与tkz-euclide包平面几何绘图示例</title>
-    <link href="https://yuxtech.github.io/2019/07/14/%E5%B9%B3%E9%9D%A2%E5%87%A0%E4%BD%95%E7%BB%98%E5%9B%BE%E7%A4%BA%E4%BE%8B/"/>
-    <id>https://yuxtech.github.io/2019/07/14/平面几何绘图示例/</id>
-    <published>2019-07-14T12:28:19.000Z</published>
-    <updated>2019-07-14T12:47:08.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="tkz-euclide包平面几何绘图示例"><a href="#tkz-euclide包平面几何绘图示例" class="headerlink" title="tkz-euclide包平面几何绘图示例"></a>tkz-euclide包平面几何绘图示例</h1><p>这是我最近读法语平面几何绘图包tkz-euclide，从中把一些典型的例子挖出来。以前用tikz作图，平面几何作图确实是一大难题，现在发现了这个tkz-euclide包刚好弥补了tikz的这点。<br><a href="https://yuxtech.github.io/tex/tkz-euclide.tex">tkz-euclide包平面几何绘图.tex</a><br><a href="https://yuxtech.github.io/tex/tkz-euclide包平面几何绘图.pdf">tkz-euclide包平面几何绘图.pdf</a><br><div class="row">    <embed src="https://yuxtech.github.io/tex/tkz-euclide包平面几何绘图.pdf" width="100%" height="550" type="application/pdf"></div></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;tkz-euclide包平面几何绘图示例&quot;&gt;&lt;a href=&quot;#tkz-euclide包平面几何绘图示例&quot; class=&quot;headerlink&quot; title=&quot;tkz-euclide包平面几何绘图示例&quot;&gt;&lt;/a&gt;tkz-euclide包平面几何绘图示例&lt;/h1&gt;&lt;
       
     
     </summary>
